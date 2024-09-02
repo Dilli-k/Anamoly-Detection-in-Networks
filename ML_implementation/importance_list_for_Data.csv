@@ -1,0 +1,1 @@
+AllAttacks = ['Bwd Packet Length Std', 'Flow Bytes/s', 'Subflow Fwd Bytes', 'Total Length of Fwd Packets', 'Init_Win_bytes_forward']
